@@ -1,8 +1,5 @@
-# React + Vite
+Nike Shoes Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern landing page designed to showcase Nike shoes. Built for an engaging and responsive user experience.
+Live Demo here: https://jainoos007.github.io/Nike-Land/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
